@@ -1,0 +1,191 @@
+Action ID,Announce Date,Target Ticker,Target Name,Acquirer Ticker,Announced Total Value (mil.),Payment Type,Deal Status,Completion/Termination Date,Cash Terms,Target Industry Sector
+57244231,8/26/2011,1313814D CN,Rio Tinto Canada Uranium Corp,CCO CN,565.86,Cash,Terminated,11/29/2011,4.5,Basic Materials
+58565813,10/19/2011,1313814D CN,Rio Tinto Canada Uranium Corp,RIO LN,575.92,Cash,Completed,1/13/2012,4.7,Basic Materials
+45003425,4/29/2010,1339658D US,Pacific Capital Bancorp,3601589Z US,500.0,Cash,Completed,8/31/2010,0.2,Financial
+62409413,3/12/2012,1339658D US,Pacific Capital Bancorp,8306 JP,1513.63,Cash,Completed,12/4/2012,46,Financial
+95657983,9/2/2014,1519128D US,Compuware Corp,129626Z US,2112.52,Cash,Completed,12/16/2014,10.3892,Technology
+72002465,12/17/2012,1519128D US,Compuware Corp,978325Z US,2208.82,Cash,Terminated,3/17/2013,11,Technology
+128824269,11/29/2016,2131 JP,Accordia Golf Co Ltd,MBKPTS KS,1286.26,Cash,Completed,3/23/2017,1210,"Consumer, Cyclical"
+70819969,11/15/2012,2131 JP,Accordia Golf Co Ltd,2466 JP,1779.15,Cash,Terminated,1/17/2013,81000,"Consumer, Cyclical"
+141159854,3/1/2017,2168 HK,Yingde Gases Group Co Ltd,1011675D HK,2564.4,Cash,Completed,8/21/2017,6,Basic Materials
+138408460,1/9/2017,2168 HK,Yingde Gases Group Co Ltd,APD US,2754.5,Cash,Terminated,3/24/2017,5.5,Basic Materials
+47664440,8/23/2010,7586674Q US,3PAR Inc,HPQ US,2096.51,Cash,Completed,9/27/2010,33,Technology
+47508042,8/16/2010,7586674Q US,3PAR Inc,DELL US,2028.9,Cash,Terminated,9/2/2010,32,Technology
+88631475,3/7/2014,917 HK,New World China Land Ltd,17 HK,2364.68,Cash,Terminated,6/16/2014,6.8,Financial
+118442777,1/6/2016,917 HK,New World China Land Ltd,17 HK,2732.56,Cash,Completed,8/4/2016,7.8,Financial
+87451814,2/14/2014,ACO US,AMCOL International Corp,MTX US,1705.31,Cash,Completed,5/12/2014,45.75,Basic Materials
+87331974,2/12/2014,ACO US,AMCOL International Corp,NK FP,1688.63,Cash,Terminated,3/10/2014,45.25,Basic Materials
+65546984,6/19/2012,AERL ID,Aer Lingus Group PLC,RYA ID,611.89,Cash,Terminated,2/27/2013,1.3,"Consumer, Cyclical"
+100253017,1/26/2015,AERL ID,Aer Lingus Group PLC,IAG LN,1494.86,Cash,Completed,9/17/2015,2.5,"Consumer, Cyclical"
+122680817,3/20/2016,AFFX US,Affymetrix Inc,1391094D US,1382.12,Cash,Terminated,3/28/2016,17,"Consumer, Non-cyclical"
+118765351,1/8/2016,AFFX US,Affymetrix Inc,TMO US,1106.9,Cash,Completed,4/1/2016,14,"Consumer, Non-cyclical"
+66586283,7/20/2012,APB SP,Heineken Asia MTN Pte Ltd,HEIA NA,4360.64,Cash,Completed,11/15/2012,53,"Consumer, Non-cyclical"
+66587528,7/20/2012,APB SP,Heineken Asia MTN Pte Ltd,HEIA NA,2003.9,Cash,Completed,2/22/2013,53,"Consumer, Non-cyclical"
+42934594,2/5/2010,ARG US,Airgas Inc,APD US,7496.88,Cash,Terminated,2/15/2011,70,Basic Materials
+115852215,11/17/2015,ARG US,Airgas Inc,AI FP,13246.56,Cash,Completed,5/23/2016,143,Basic Materials
+119736142,6/10/2016,AXLL US,Axiall Corp,WLK US,3541.98,Cash,Completed,8/31/2016,33,Basic Materials
+60805947,1/13/2012,AXLL US,Axiall Corp,WLK US,1852.63,Cash,Terminated,5/4/2012,35,Basic Materials
+66680616,7/24/2012,BBG AU,Billabong International Ltd,8818Z US,1147.67,Cash,Terminated,10/12/2012,1.45,"Consumer, Cyclical"
+72975692,1/14/2013,BBG AU,Billabong International Ltd,,726.11,Cash,Terminated,6/4/2013,1.1,"Consumer, Cyclical"
+110088115,7/24/2015,BHFKB BB,BHF Group SPRL,656 HK,528.58,Cash,Terminated,12/18/2015,5.1,Financial
+111327791,11/27/2015,BHFKB BB,BHF Group SPRL,211522Z FP,630.7,Cash,Completed,3/14/2016,5.75,Financial
+96625297,12/5/2014,BKN AU,Bradken Ltd,,1039.64,Cash,Terminated,1/27/2015,5.1,Industrial
+132827447,10/3/2016,BKN AU,Bradken Ltd,6305 JP,707.19,Cash,Completed,5/17/2017,3.25,Industrial
+121537913,4/18/2016,BPI PL,Banco BPI SA,CABK SM,870.76,Cash,Completed,2/7/2017,1.134,Financial
+102773140,2/17/2015,BPI PL,Banco BPI SA,CABK SM,1206.22,Cash,Terminated,6/18/2015,1.329,Financial
+103220421,2/26/2015,BRPR3 BZ,BR Properties SA,,2488.4,Cash,Terminated,7/2/2015,12,Financial
+117037861,12/11/2015,BRPR3 BZ,BR Properties SA,GPIV33 BZ,1556.35,Cash,Completed,5/11/2016,11,Financial
+116747855,12/7/2015,BRS AU,Broadspectrum Ltd,FER SM,962.74,Cash,Completed,6/28/2016,1.5,Industrial
+97662300,10/20/2014,BRS AU,Broadspectrum Ltd,FER SM,1378.15,Cash,Terminated,12/21/2014,2,Industrial
+66969381,7/31/2012,BSAN SW,Bank J Safra Sarasin AG,8227580Z BZ,698.33,Cash,Completed,5/21/2013,27,Financial
+59494742,11/25/2011,BSAN SW,Bank J Safra Sarasin AG,8227580Z BZ,1121.21,Cash,Completed,7/31/2012,36,Financial
+48123051,9/9/2010,CASY US,Casey's General Stores Inc,3382 JP,1481.19,Cash,Terminated,11/3/2010,40,"Consumer, Cyclical"
+44477043,4/9/2010,CASY US,Casey's General Stores Inc,ATD/B CN,1424.42,Cash,Terminated,9/30/2010,38.5,"Consumer, Cyclical"
+54123863,5/2/2011,CEPH US,Cephalon Inc,TEVA IT,6154.82,Cash,Completed,10/17/2011,81.5,"Consumer, Non-cyclical"
+53198194,3/29/2011,CEPH US,Cephalon Inc,VRX CN,5464.32,Cash,Terminated,5/2/2011,73,"Consumer, Non-cyclical"
+89942218,4/14/2014,CHDX US,Chindex International Inc,,414.26,Cash,Terminated,9/30/2014,23,"Consumer, Non-cyclical"
+87505249,2/17/2014,CHDX US,Chindex International Inc,,431.68,Cash,Completed,9/30/2014,24,"Consumer, Non-cyclical"
+45867314,6/8/2010,CHLD LN,Chloride Group Ltd,ABBN SW,1309.58,Cash,Terminated,7/1/2010,3.25,Industrial
+44802730,4/23/2010,CHLD LN,Chloride Group Ltd,EMR US,1596.01,Cash,Completed,9/3/2010,3.75,Industrial
+44798682,4/24/2010,CKR US,CKE Restaurants Inc,APO US,1009.5,Cash,Completed,7/13/2010,12.55,"Consumer, Cyclical"
+43398837,2/26/2010,CKR US,CKE Restaurants Inc,6612Z US,921.74,Cash,Terminated,4/24/2010,11.05,"Consumer, Cyclical"
+82925634,10/24/2013,CLS1 GR,McKesson Europe AG,MCK US,4968.85,Cash,Completed,2/6/2014,23.5,"Consumer, Non-cyclical"
+82925712,10/24/2013,CLS1 GR,McKesson Europe AG,MCK US,2758.42,Cash,Terminated,1/13/2014,23.5,"Consumer, Non-cyclical"
+71884156,12/13/2012,CLWR US,Clearwire Corp,0848680D US,3603.82,Cash,Completed,7/10/2013,5,Communications
+72792085,1/8/2013,CLWR US,Clearwire Corp,DISH US,9506.62,Cash,Terminated,6/26/2013,4.4,Communications
+75787497,4/5/2013,COP NO,Copeinca ASA,CEQ NO,916.59,Cash,Terminated,5/23/2013,59.7,"Consumer, Non-cyclical"
+74395605,2/26/2013,COP NO,Copeinca ASA,CFG SP,1019.6,Cash,Completed,11/8/2013,68.17,"Consumer, Non-cyclical"
+61948069,2/24/2012,COV LN,Cove Energy Ltd,PTTEP TB,1593.48,Cash,Completed,9/18/2012,2.4,Energy
+61860263,2/22/2012,COV LN,Cove Energy Ltd,RDSA LN,1418.87,Cash,Terminated,7/25/2012,2.2,Energy
+136508022,11/8/2016,CPFE3 BZ,CPFL Energia SA,CHSGCZ CH,1389.07,Cash,Completed,1/23/2017,25.51,Utilities
+140487501,1/23/2017,CPFE3 BZ,CPFL Energia SA,CHSGCZ CH,3711.79,Cash,Pending,11/30/2017,25.51,Utilities
+55610270,6/23/2011,CV US,Central Vermont Public Service Corp,,656.79,Cash,Completed,6/28/2012,35.25,Utilities
+54879917,5/30/2011,CV US,Central Vermont Public Service Corp,FTS CN,654.73,Cash,Terminated,7/12/2011,35.1,Utilities
+57560098,9/8/2011,DCH FP,Delachaux SA,,542.74,Cash,Completed,11/18/2011,82,Industrial
+54768941,5/23/2011,DCH FP,Delachaux SA,,945.1,Cash,Completed,9/8/2011,83,Industrial
+75368792,3/25/2013,DELL US,Dell Inc,IEP US,10379.77,Cash,Terminated,9/9/2013,15,Technology
+73727936,2/5/2013,DELL US,Dell Inc,,16435.6,Cash,Completed,10/30/2013,13.75,Technology
+121621806,3/2/2016,DRTY LN,Darty Ltd,SNH GR,1157.11,Cash,Terminated,6/1/2016,1.6,"Consumer, Cyclical"
+113218404,11/6/2015,DRTY LN,Darty Ltd,FNAC FP,1596.72,Cash,Completed,8/17/2016,1.7,"Consumer, Cyclical"
+47475172,8/13/2010,DYNIQ US,Dynegy Inc/Old,BX US,4659.56,Cash,Terminated,11/23/2010,5,Utilities
+50475312,12/15/2010,DYNIQ US,Dynegy Inc/Old,IEP US,4734.27,Cash,Terminated,2/18/2011,5.5,Utilities
+92151983,6/5/2014,EIFF FP,Societe de la Tour Eiffel,47646Q FP,799.79,Cash,Terminated,7/9/2014,55,Financial
+87653604,2/20/2014,EIFF FP,Societe de la Tour Eiffel,580872Z FP,1061.83,Cash,Completed,9/10/2014,58,Financial
+53373262,4/3/2011,EQN CN,Equinox Minerals Ltd,1208 HK,6262.28,Cash,Terminated,4/26/2011,7,Basic Materials
+53926805,4/25/2011,EQN CN,Equinox Minerals Ltd,ABX CN,7811.1,Cash,Completed,7/21/2011,8.15,Basic Materials
+116825316,12/8/2015,FCS US,Fairchild Semiconductor International Inc,,2413.56,Cash,Terminated,9/19/2016,21.7,Technology
+114118997,11/18/2015,FCS US,Fairchild Semiconductor International Inc,ON US,2222.78,Cash,Completed,9/20/2016,20,Technology
+94598504,8/18/2014,FDO US,Family Dollar Stores Inc,DG US,9721.49,Cash,Terminated,1/30/2015,80,"Consumer, Cyclical"
+52114212,2/15/2011,FDO US,Family Dollar Stores Inc,3082712Z US,7709.56,Cash,Terminated,9/29/2011,60,"Consumer, Cyclical"
+139943765,5/24/2017,FGL US,Fidelity & Guaranty Life,,1819.79,Cash,Completed,12/1/2017,31.1,Financial
+115495051,11/9/2015,FGL US,Fidelity & Guaranty Life,1083236D CH,1572.88,Cash,Terminated,4/17/2017,26.8,Financial
+68772065,9/13/2012,FNN SP,Fraser and Neave Ltd,THBEV SP,8576.36,Cash,Completed,2/18/2013,9.43,Financial
+70825304,11/15/2012,FNN SP,Fraser and Neave Ltd,,12684.98,Cash,Terminated,1/21/2013,9.08,"Consumer, Non-cyclical"
+52997727,3/22/2011,FPT LN,Forth Ports Ltd,8225719Z LN,1343.4,Cash,Completed,6/3/2011,16.3,"Consumer, Non-cyclical"
+44893564,1/28/2010,FPT LN,Forth Ports Ltd,,1155.5,Cash,Terminated,5/30/2010,14,"Consumer, Non-cyclical"
+105091959,4/3/2015,GAME US,Shanda Games Ltd,1255273D CH,1736.57,Cash,Completed,11/19/2015,7.1,Technology
+86631551,1/27/2014,GAME US,Shanda Games Ltd,,440.6,Cash,Terminated,11/30/2014,6.9,Technology
+62509846,3/14/2012,GO/ LN,GlobeOp Financial Services SA,SSNC US,814.11,Cash,Completed,7/10/2012,4.85,Financial
+61292993,2/1/2012,GO/ LN,GlobeOp Financial Services SA,8818Z US,813.94,Cash,Terminated,7/10/2012,4.85,Financial
+75603728,3/31/2013,GTHE EY,Global Telecom Holding SAE,1026156Z RU,6199.06,Cash,Terminated,6/3/2013,0.7,Communications
+155176929,11/8/2017,GTHE EY,Global Telecom Holding SAE,VEON US,894.46,Cash,Pending, ,7.9,Communications
+145331934,6/6/2017,HAV FP,Havas SA,VIV FP,2624.88,Cash,Completed,7/3/2017,9.25,Communications
+145406894,6/6/2017,HAV FP,Havas SA,VIV FP,1784.92,Cash,Completed,12/14/2017,9.25,Communications
+55510805,6/20/2011,HRBN US,Harbin Electric Inc,ABGLCZ HK,434.58,Cash,Completed,11/2/2011,24,Industrial
+49442891,10/11/2010,HRBN US,Harbin Electric Inc,,541.39,Cash,Terminated,11/23/2010,24,Industrial
+91811573,5/29/2014,HSH US,Hillshire Brands Co/The,TSN US,8396.56,Cash,Completed,8/29/2014,63,"Consumer, Non-cyclical"
+91707246,5/27/2014,HSH US,Hillshire Brands Co/The,PPC US,7390.86,Cash,Terminated,6/9/2014,55,"Consumer, Non-cyclical"
+94751323,8/8/2014,HYC LN,Hyder Consulting Group Holdings Ltd,1954 JP,421.81,Cash,Terminated,9/12/2014,6.8,"Consumer, Non-cyclical"
+94352920,7/31/2014,HYC LN,Hyder Consulting Group Holdings Ltd,ARCAD NA,470.55,Cash,Completed,10/17/2014,7.5,"Consumer, Non-cyclical"
+93589099,7/10/2014,IND IM,Whirlpool EMEA SpA,WHR US,1727.42,Cash,Completed,10/14/2014,11,"Consumer, Cyclical"
+93589141,7/10/2014,IND IM,Whirlpool EMEA SpA,WHR US,676.25,Cash,Completed,12/3/2014,11,"Consumer, Cyclical"
+118927116,1/13/2016,ISAGEN CB,Isagen SA ESP,,3040.43,Cash,Completed,1/22/2016,4130,Utilities
+125691730,1/13/2016,ISAGEN CB,Isagen SA ESP,,1452.94,Cash,Completed,9/14/2016,4130,Utilities
+106854468,5/28/2015,ISSI US,Integrated Silicon Solution Inc,CY US,605.83,Cash,Terminated,6/30/2015,22.6,Technology
+103961665,3/12/2015,ISSI US,Integrated Silicon Solution Inc,,663.96,Cash,Completed,12/8/2015,23,Technology
+107890540,6/5/2015,JASO US,JA Solar Holdings Co Ltd,,674.28,Cash,Pending, ,6.8,Energy
+155691280,11/17/2017,JASO US,JA Solar Holdings Co Ltd,,976.71,Cash,Pending,3/31/2018,7.55,Energy
+52631793,3/8/2011,KAH LN,Kalahari Minerals Ltd,CGNPCZ CH,1127.95,Cash,Terminated,5/10/2011,2.9,Basic Materials
+59837181,12/8/2011,KAH LN,Kalahari Minerals Ltd,,935.25,Cash,Completed,4/4/2012,2.4355,Basic Materials
+111782941,8/31/2015,KANG US,iKang Healthcare Group Inc,,1003.52,Cash,Terminated,6/7/2016,17.8,"Consumer, Non-cyclical"
+126751852,6/6/2016,KANG US,iKang Healthcare Group Inc,YUNFCPZ CH,1645.41,Cash,Pending, ,25,"Consumer, Non-cyclical"
+78636590,6/24/2013,KD8 GR,Kabel Deutschland Holding AG,VOD LN,11185.66,Cash,Completed,10/14/2013,84.5,Communications
+85677780,12/20/2013,KD8 GR,Kabel Deutschland Holding AG,VOD LN,2398.07,Cash,Pending, ,84.53,Communications
+80402774,8/12/2013,LVB US,Steinway Musical Instruments Inc,573991Z US,473.56,Cash,Completed,9/19/2013,40,"Consumer, Cyclical"
+79093846,7/1/2013,LVB US,Steinway Musical Instruments Inc,9618Z US,428.9,Cash,Terminated,8/14/2013,35,"Consumer, Cyclical"
+54320389,5/9/2011,MAN GR,MAN SE,VOW GR,7418.43,Cash,Completed,6/29/2011,95,Industrial
+75313948,3/22/2013,MAN GR,MAN SE,VOW GR,3694.26,Cash,Pending, ,80.89,Industrial
+56064383,7/11/2011,MCC AU,Peabody Energy Australia PCI Pty Ltd,,4045.85,Cash,Completed,12/22/2011,16.25,Energy
+44243527,3/30/2010,MCC AU,Peabody Energy Australia PCI Pty Ltd,BTU US,3366.92,Cash,Terminated,5/18/2010,15,Energy
+125075400,8/22/2016,MDVN US,Medivation Inc,PFE US,13694.62,Cash,Completed,9/29/2016,81.5,"Consumer, Non-cyclical"
+123243804,4/28/2016,MDVN US,Medivation Inc,SAN FP,9707.77,Cash,Terminated,9/28/2016,58,"Consumer, Non-cyclical"
+142012268,3/26/2017,MGI US,MoneyGram International Inc,EEFT US,1752.59,Cash,Terminated,4/17/2017,15.2,"Consumer, Non-cyclical"
+139245910,1/26/2017,MGI US,MoneyGram International Inc,1051260D CH,1719.54,Cash,Terminated,1/2/2018,18,"Consumer, Non-cyclical"
+48019451,9/6/2010,MTRS PZ,Munters AB,ALFA SS,869.4,Cash,Terminated,10/18/2010,75,Industrial
+48537142,9/29/2010,MTRS PZ,Munters AB,1067Z SS,831.62,Cash,Completed,12/27/2010,77,Industrial
+55935398,7/5/2011,MTX SJ,Metorex Ltd,JINGRZ CH,1407.36,Cash,Completed,1/17/2012,8.9,Basic Materials
+53524510,4/8/2011,MTX SJ,Metorex Ltd,VALE3 BZ,1189.62,Cash,Terminated,7/11/2011,7.35,Basic Materials
+78548792,6/20/2013,NBPO LN,New Britain Palm Oil Ltd,KUL MK,1759.96,Cash,Terminated,9/5/2013,5.5,"Consumer, Non-cyclical"
+97222427,10/9/2014,NBPO LN,New Britain Palm Oil Ltd,SIME MK,1970.29,Cash,Completed,3/25/2015,7.15,"Consumer, Non-cyclical"
+52761009,3/11/2011,NDN US,99 Cents Only Stores LLC,,674.93,Cash,Terminated,10/12/2011,19.09,"Consumer, Cyclical"
+58356195,10/11/2011,NDN US,99 Cents Only Stores LLC,,1096.9,Cash,Completed,1/17/2012,22,"Consumer, Cyclical"
+150609984,8/16/2017,NEFF US,Neff Corp,URI US,596.11,Cash,Completed,10/2/2017,25,"Consumer, Non-cyclical"
+148854360,7/14/2017,NEFF US,Neff Corp,HEES US,501.78,Cash,Terminated,8/17/2017,21.07,"Consumer, Non-cyclical"
+43519063,3/2/2010,NOVL US,Micro Focus Software Inc,ELLIOTA US,802.87,Cash,Terminated,11/22/2010,5.75,Technology
+49862675,11/22/2010,NOVL US,Micro Focus Software Inc,ATTM US,1090.49,Cash,Completed,4/28/2011,6.1,Technology
+116715526,10/26/2015,PBY US,Pep Boys-Manny Moe & Jack/The,IEP US,1010.48,Cash,Completed,2/4/2016,18.5,"Consumer, Cyclical"
+61217075,1/30/2012,PBY US,Pep Boys-Manny Moe & Jack/The,671468Z US,1009.17,Cash,Terminated,5/29/2012,15,"Consumer, Cyclical"
+91754413,5/28/2014,PDH US,PetroLogistics LP,3097Z US,1561.09,Cash,Completed,7/16/2014,12,Basic Materials
+91754089,5/28/2014,PDH US,PetroLogistics LP,3097Z US,526.22,Cash,Completed,7/16/2014,14,Basic Materials
+54223697,4/14/2011,PEPR NA,ProLogis European Properties,8394653Q US,882.55,Cash,Completed,5/18/2011,6.2,Financial
+53635260,4/12/2011,PEPR NA,ProLogis European Properties,,1655.83,Cash,Terminated,5/9/2011,6,Financial
+129483362,7/28/2016,PFL LN,Premier Farnell Ltd,AVT US,1223.56,Cash,Completed,10/18/2016,1.85,Industrial
+127117367,6/14/2016,PFL LN,Premier Farnell Ltd,DAE SW,1211.94,Cash,Terminated,8/22/2016,1.65,Industrial
+57147066,8/23/2011,PMC US,PharMerica Corp,OCR US,700.2,Cash,Terminated,2/17/2012,15,"Consumer, Non-cyclical"
+149898747,8/2/2017,PMC US,PharMerica Corp,,1383.82,Cash,Completed,12/8/2017,29.25,"Consumer, Non-cyclical"
+63122092,4/4/2012,PROH MK,Proton Holdings Bhd,DRB MK,488.27,Cash,Completed,5/16/2012,5.5,"Consumer, Cyclical"
+60830654,1/16/2012,PROH MK,Proton Holdings Bhd,DRB MK,411.22,Cash,Completed,1/16/2012,5.5,"Consumer, Cyclical"
+46429454,7/1/2010,PWAY SP,Parkway Holdings Ltd,,2702.28,Cash,Terminated,7/26/2010,3.8,"Consumer, Non-cyclical"
+45593763,5/27/2010,PWAY SP,Parkway Holdings Ltd,KNBZ MK,2025.96,Cash,Completed,11/24/2010,3.95,"Consumer, Non-cyclical"
+65410169,6/14/2012,QSFT US,Quest Software Inc/CA,DELL US,2249.52,Cash,Completed,10/1/2012,28,Technology
+62369210,3/9/2012,QSFT US,Quest Software Inc/CA,,2050.06,Cash,Terminated,7/2/2012,25.75,Technology
+59981793,12/14/2011,QSR MK,QSR Brands M Holdings Bhd,,724.11,Cash,Completed,2/7/2013,6.8,"Consumer, Cyclical"
+60694442,1/10/2012,QSR MK,QSR Brands M Holdings Bhd,0117900D MK,442.33,Cash,Terminated,1/16/2012,6.9,"Consumer, Cyclical"
+81918607,9/27/2013,RDA US,RDA Microelectronics Inc,PDCTOZ CH,625.06,Cash,Terminated,7/21/2014,15.5,Technology
+83514126,11/7/2013,RDA US,RDA Microelectronics Inc,TSHUNZ CH,769.84,Cash,Completed,7/21/2014,18.5,Technology
+101680421,7/25/2014,RDGZ KZ,KazMunaiGas Exploration Production JSC,KMGZ KZ,2833.31,Cash,Terminated,1/5/2015,18.5,Energy
+127437040,6/17/2016,RDGZ KZ,KazMunaiGas Exploration Production JSC,KMGZ KZ,1163.15,Cash,Terminated,8/3/2016,47.27,Energy
+128900824,7/18/2016,RDI US,Reading International Inc,,479.34,Cash,Terminated,7/18/2016,17,"Consumer, Cyclical"
+137273310,12/20/2016,RDI US,Reading International Inc,,569.11,Cash,Pending, ,18.5,"Consumer, Cyclical"
+115497769,11/9/2015,RLD US,RealD Inc,956022Z US,537.77,Cash,Completed,3/22/2016,11,Technology
+96894486,10/1/2014,RLD US,RealD Inc,0290875D US,548.03,Cash,Terminated,11/3/2014,12,Technology
+66955681,7/8/2012,RON CN,RONA Inc,LOW US,2177.65,Cash,Terminated,9/17/2012,14.5,"Consumer, Cyclical"
+120072893,2/3/2016,RON CN,RONA Inc,LOW US,2062.31,Cash,Completed,5/25/2016,24,"Consumer, Cyclical"
+88056163,12/15/2014,RVBD US,Riverbed Technology Inc,,3373.35,Cash,Completed,4/24/2015,21,Technology
+83757228,1/8/2014,RVBD US,Riverbed Technology Inc,978325Z US,3090.34,Cash,Terminated,12/15/2014,21,Technology
+151540895,7/19/2017,SAZ GR,STADA Arzneimittel AG,,1990.72,Cash,Pending, ,74.4,"Consumer, Non-cyclical"
+126145026,4/10/2017,SAZ GR,STADA Arzneimittel AG,,5685.84,Cash,Terminated,6/22/2017,65.28,"Consumer, Non-cyclical"
+70842739,11/15/2012,SHF US,Schiff Nutrition International Inc,RB/ LN,1352.2,Cash,Completed,12/17/2012,42,"Consumer, Non-cyclical"
+70269618,10/30/2012,SHF US,Schiff Nutrition International Inc,BAYN GR,1115.83,Cash,Terminated,11/21/2012,34,"Consumer, Non-cyclical"
+50636225,6/15/2010,SKY LN,Sky PLC,FOXA US,13150.48,Cash,Terminated,7/13/2011,7,Communications
+136679903,12/9/2016,SKY LN,Sky PLC,FOXA US,22601.6,Cash,Pending,6/30/2018,10.75,Communications
+45434500,5/19/2010,SPR FP,Sperian Protection SA,HON US,1362.65,Cash,Completed,10/12/2010,116,Industrial
+44309408,3/31/2010,SPR FP,Sperian Protection SA,1709Z LN,1017.72,Cash,Terminated,9/15/2010,70,Industrial
+67982487,8/23/2012,TLH CN,Talison Lithium Ltd,ROC US,672.47,Cash,Terminated,12/12/2012,6.5,Basic Materials
+70921016,11/19/2012,TLH CN,Talison Lithium Ltd,0622122D CH,659.65,Cash,Completed,3/14/2013,7.5,Basic Materials
+105141648,4/7/2015,TNTE NA,TNT Express BV,FDX US,4406.23,Cash,Completed,7/4/2016,8,Industrial
+61786859,2/17/2012,TNTE NA,TNT Express BV,UPS US,6853.27,Cash,Terminated,1/14/2013,9.5,Industrial
+68084055,8/27/2012,TPCG US,TPC Group Inc,,918.68,Cash,Completed,12/21/2012,45,Basic Materials
+69599910,10/8/2012,TPCG US,TPC Group Inc,IOSP US,957.93,Cash,Terminated,12/3/2012,47.5,Basic Materials
+58668919,10/24/2011,TUC US,Mac-Gray Corp,0342855Z US,463.78,Cash,Terminated,1/22/2012,17.5,"Consumer, Non-cyclical"
+82598719,10/15/2013,TUC US,Mac-Gray Corp,0883166D US,856.55,Cash,Completed,1/9/2014,21.25,"Consumer, Non-cyclical"
+94798496,8/11/2014,TWE AU,Treasury Wine Estates Ltd,,3412.79,Cash,Terminated,9/29/2014,5.2,"Consumer, Non-cyclical"
+91440935,5/20/2014,TWE AU,Treasury Wine Estates Ltd,,3406.53,Cash,Terminated,9/29/2014,5.2,"Consumer, Non-cyclical"
+148638773,7/11/2017,VOC AU,Vocus Group Ltd,AFFEQTZ HK,2415.72,Cash,Terminated,8/21/2017,3.5,Communications
+144896765,6/7/2017,VOC AU,Vocus Group Ltd,KKR US,2393.65,Cash,Terminated,8/21/2017,3.5,Communications
+50156488,12/2/2010,WBDF RM,Wimm-Bill-Dann Foods OJSC,PEP US,4152.7,Cash,Completed,2/3/2011,132,"Consumer, Non-cyclical"
+50156756,12/2/2010,WBDF RM,Wimm-Bill-Dann Foods OJSC,PEP US,1257.7,Cash,Completed,2/10/2011,3883.7,"Consumer, Non-cyclical"
+104722407,3/28/2015,WDF IM,World Duty Free SpA,DUFN SW,2481.87,Cash,Completed,8/7/2015,10.25,"Consumer, Cyclical"
+104729961,3/28/2015,WDF IM,World Duty Free SpA,DUFN SW,1419.23,Cash,Completed,11/13/2015,10.25,"Consumer, Cyclical"
+63152530,4/5/2012,WOLF US,Great Wolf Resorts Inc,730174Z US,723.77,Cash,Terminated,4/21/2012,7.25,"Consumer, Cyclical"
+62446802,3/13/2012,WOLF US,Great Wolf Resorts Inc,APO US,743.83,Cash,Completed,5/7/2012,7.85,"Consumer, Cyclical"
